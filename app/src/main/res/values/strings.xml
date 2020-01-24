@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BluetoothVoiceControl</string>
+    <string name="voice">Voice</string>
+    <string name="speech_prompt">Speak your password</string>
+    <string name="tap_to_speak">Tap on mic to Speak</string>
+    <string name="unknown_command">Unknown Command</string>
+    <string name="command_match">Command Matched</string>
+    <string name="enter_pin">Enter Pin</string>
+    <string name="initializing">Initializing</string>
+    <string name="bluetooth_not_supported">Bluetooth Not Supported!!</string>
+    <string name="incorrect_pin">Incorrect Pin</string>
+    <string name="unable_to_connect">Unable to Connect</string>
+    <string name="connection_established">Connection Established</string>
+    <string name="connection_closed">Connection Closed</string>
+    <string name="command_sent">Command Sent</string>
+    <string name="unable_to_enable_bluetooth">Unable to Enable Bluetooth</string>
+</resources>
